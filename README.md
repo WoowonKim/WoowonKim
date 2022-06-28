@@ -43,9 +43,7 @@
                 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/>
             </center>
         </div>
-        <div style="float:right; width:50%">
-            
-    	</div>
+        
 </div>		
 </div>
 

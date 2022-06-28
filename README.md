@@ -2,11 +2,11 @@
     <div>
         <div style="float:left; width:50%; text-align:center">
             <center>
-            <h2>
+            <strong>
                 Hi there 👋<br>
                 &nbsp;&nbsp;&nbsp;&nbsp;Im' Woowon Kim
                 <hr/>
-            </h2>
+            </strong>
             <h3>	
                 About me : <a href="https://www.notion.so/d9f311f4b91942fca9fa977da72aa59b" target="_blank"><img src="https://img.shields.io/badge/Notion-676767?style=for-the-badge&logo=notion&logoColor=white"/></a>
             </h3>

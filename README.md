@@ -18,7 +18,7 @@
             <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dyffh1031"/>
 	    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WoowonKim&layout=compact"/>
     	</div>
-	</div>
+	
 </div>
 
 
@@ -44,9 +44,9 @@
                 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/>
             </center>
         </div>
-        <div style="float:right; width:50%">
+        	<div style="float:right; width:50%">
             
-    	</div>
+    		</div>
 	</div>
 </div>
 

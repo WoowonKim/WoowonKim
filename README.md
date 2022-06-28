@@ -8,15 +8,16 @@
                 <hr/>
             </h2>
             <h3>	
-                About me : <a href="https://www.notion.so/d9f311f4b91942fca9fa977da72aa59b" target="_blank"><img src="https://img.shields.io/badge/Notion-676767?style=for-the-badge&logo=notion&logoColor=white"/></a>
+                About me  <a href="https://www.notion.so/d9f311f4b91942fca9fa977da72aa59b" target="_blank"><img src="https://img.shields.io/badge/Notion-676767?style=for-the-badge&logo=notion&logoColor=white"/></a>
             </h3>
             <h3>
-                Contact : <a href="mailto:dyffh1031@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+                Contact  <a href="mailto:dyffh1031@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
             </h3>
             </center>
         </div>
         <div style="float:right; width:50%">
             <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dyffh1031"/>
+	    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WoowonKim&layout=compact"/>
     	</div>
 	</div>
 </div>
@@ -41,9 +42,7 @@
                 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/>
             </center>
         </div>
-        <div style="float:right; width:50%">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WoowonKim&layout=compact"/>
-    	</div>
+        
 	</div>
 </div>
 

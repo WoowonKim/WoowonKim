@@ -9,7 +9,7 @@
             <h3>	
                 <div>About me &nbsp; <a href="https://www.notion.so/d9f311f4b91942fca9fa977da72aa59b" target="_blank"><img src="https://img.shields.io/badge/Notion-676767?style=for-the-badge&logo=notion&logoColor=white"/></a></div> 
 		<div>Contact &nbsp; <a href="mailto:dyffh1031@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a></div>
-		<div>Blog  &nbsp; <a href="https://www.notion.so/d9f311f4b91942fca9fa977da72aa59b" target="_blank"><img src="https://img.shields.io/badge/Notion-676767?style=for-the-badge&logo=notion&logoColor=white"/></a></div>
+		<div>Blog  &nbsp; <a href="https://velog.io/@dyffh1031" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/></a></div>
             </h3>
             </center>
         </div>

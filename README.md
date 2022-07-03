@@ -7,7 +7,9 @@
                 &nbsp;&nbsp;&nbsp;&nbsp;Im' Woowon Kim
             </h2>
             <h3>	
-                About me <a href="https://www.notion.so/d9f311f4b91942fca9fa977da72aa59b" target="_blank"><img src="https://img.shields.io/badge/Notion-676767?style=for-the-badge&logo=notion&logoColor=white"/></a> Contact <a href="mailto:dyffh1031@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+                <div>About me &nbsp; <a href="https://www.notion.so/d9f311f4b91942fca9fa977da72aa59b" target="_blank"><img src="https://img.shields.io/badge/Notion-676767?style=for-the-badge&logo=notion&logoColor=white"/></a></div> 
+		<div>Contact &nbsp; <a href="mailto:dyffh1031@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a></div>
+		<div>Blog  &nbsp; <a href="https://www.notion.so/d9f311f4b91942fca9fa977da72aa59b" target="_blank"><img src="https://img.shields.io/badge/Notion-676767?style=for-the-badge&logo=notion&logoColor=white"/></a></div>
             </h3>
             </center>
         </div>

@@ -20,10 +20,6 @@
             </td>
         </tr>
     </table>
-    <h3>
-        💪 Algorithm Problem Solving
-    </h3>
-    <img src="https://camo.githubusercontent.com/c930f15668d53d3293519aa744c7f12a06e1028d8567976b3c72c0d1e62d19b5/687474703a2f2f6d617a617373756d6e6964612e7774662f6170692f76322f67656e65726174655f62616467653f626f6a3d647966666831303331">
-    <img src="https://capsule-render.vercel.app/api?type=waving&theme=gruvbox&height=200&section=footer" />
 </div>
+
 
